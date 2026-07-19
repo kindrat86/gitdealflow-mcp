@@ -1,0 +1,12 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["kindrat86"],
+  "name": "gitdealflow",
+  "description": "VC deal-flow intelligence for AI agents. Search tracked startups by sector, city, or keyword; pull engineering momentum signals (commit velocity, contributor growth, new-repo spawning, deploy-frequency spikes) from public GitHub activity.",
+  "type": "mcp_server",
+  "status": "production",
+  "framework": "Node.js",
+  "tools": 4,
+  "transport": ["http"],
+  "keywords": ["mcp", "mcp-server", "venture-capital", "deal-flow", "startup-signals", "engineering-velocity", "investor-tools", "due-diligence"]
+}
