@@ -2,7 +2,7 @@
 
 VC deal-flow intelligence for AI agents. Search tracked startups by sector, city, or keyword; pull engineering momentum signals (commit velocity, contributor growth, new-repo spawning, deploy-frequency spikes) derived from public GitHub activity.
 
-**Live endpoint:** `https://gitdealflow.com/api/mcp` (HTTP, MCP 2024-11-05)
+**Live endpoint:** `https://gitdealflow.com/api/mcp` (Streamable HTTP, MCP 2025-06-18; also negotiates 2025-03-26 and 2024-11-05)
 
 Backed by the Startup Engineering Acceleration Dataset (DOI [10.5281/zenodo.19650920](https://doi.org/10.5281/zenodo.19650920)) and a deterministic 4-class signal classifier ([classifier repo](https://github.com/kindrat86/gitdealflow-signal-classifier)).
 
